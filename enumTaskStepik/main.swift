@@ -69,7 +69,10 @@ func getGrade(completion: (ResultType) -> ()) {
     }
 }
 
-var a: () = getGrade { result in
-    print(result)
-}
+//var a: () = getGrade { result in
+//    print(result)
+//}
+
+
+
 
